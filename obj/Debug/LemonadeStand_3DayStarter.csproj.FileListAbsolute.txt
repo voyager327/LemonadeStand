@@ -4,3 +4,9 @@ C:\Users\mhein\Desktop\LemonadeStand_3DayStarter\bin\Debug\LemonadeStand_3DaySta
 C:\Users\mhein\Desktop\LemonadeStand_3DayStarter\obj\Debug\LemonadeStand_3DayStarter.csprojAssemblyReference.cache
 C:\Users\mhein\Desktop\LemonadeStand_3DayStarter\obj\Debug\LemonadeStand_3DayStarter.exe
 C:\Users\mhein\Desktop\LemonadeStand_3DayStarter\obj\Debug\LemonadeStand_3DayStarter.pdb
+C:\Users\voyag\OneDrive\Documents\LemonadeStand\bin\Debug\LemonadeStand_3DayStarter.exe.config
+C:\Users\voyag\OneDrive\Documents\LemonadeStand\bin\Debug\LemonadeStand_3DayStarter.exe
+C:\Users\voyag\OneDrive\Documents\LemonadeStand\bin\Debug\LemonadeStand_3DayStarter.pdb
+C:\Users\voyag\OneDrive\Documents\LemonadeStand\obj\Debug\LemonadeStand_3DayStarter.csprojAssemblyReference.cache
+C:\Users\voyag\OneDrive\Documents\LemonadeStand\obj\Debug\LemonadeStand_3DayStarter.exe
+C:\Users\voyag\OneDrive\Documents\LemonadeStand\obj\Debug\LemonadeStand_3DayStarter.pdb
